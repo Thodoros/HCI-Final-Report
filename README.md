@@ -36,6 +36,7 @@
 
 ### 2ο ζητούμενο
 Για την αλλαγή των διεπαφών στα κούμπια,αλλάχτηκε ο κώδικας στο [style.css](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/stylesheets/style.css) και άλλαξε το χρώμα τον κουμπιών και το περίγραμμα.
+
 ![style](style.png)
 
 ![1oPar2](1oPar2.png)
@@ -74,6 +75,8 @@
 
 #### 1ο ζητούμενο
 Για να εμφανίζεται μόνο ένα από τα γραφήματα της επιλογής μας κάθε φορά,προσθέθηκε η συνάρτηση showhide και έπειτα στο μενού το onclick="showhide();".
+
+![2οPar1.2](2οPar1.2.png)
 
 ![1οPar3.2](/1oPar3.2.png)
 
