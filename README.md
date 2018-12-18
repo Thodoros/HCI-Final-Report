@@ -95,13 +95,13 @@
 
 ## Βιβλιογραφία και συνδέσμους σε σχετικές εργασίες
 
-*https://codepen.io/
-*[1ο διάγραμμα](https://codepen.io/borntofrappe/pen/qYWPVg)
-*[2o διάγραμμα](https://codepen.io/leoneloliver/pen/LQMxJB)
-*[3ο διάγραμμα](https://codepen.io/michaellee/pen/eNodMx)
-*https://d3js.org/
-*http://www.statistics.gr/
-*https://responsivevoice.org/
-*https://www.w3schools.com/
-*https://stackoverflow.com/
-*http://www.htmldog.com/
+* https://codepen.io/
+* [1ο διάγραμμα](https://codepen.io/borntofrappe/pen/qYWPVg)
+* [2o διάγραμμα](https://codepen.io/leoneloliver/pen/LQMxJB)
+* [3ο διάγραμμα](https://codepen.io/michaellee/pen/eNodMx)
+* https://d3js.org/
+* http://www.statistics.gr/
+* https://responsivevoice.org/
+* https://www.w3schools.com/
+* https://stackoverflow.com/
+* http://www.htmldog.com/
