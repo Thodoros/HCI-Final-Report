@@ -19,10 +19,10 @@
 Για την αλλαγή χρωμάτων στα διαγράμματα,άλλαξα τα χρώματα που βρίσκοταν(σε hex μορφή) στα:[script_1.js](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_1.js) για το πρώτο γράφημα,[script_2.js](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_2.js) για το δεύτερο γράφη,α,[script_3.js](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_3.js) για το τρίτο γράφημα.
 
 #### 1ο γράφημα
-(/1oPar1.png)
+![1oPar1](/1oPar1.png)
 
 #### 2ο γράφημα
-(/1oPar1.2.png)
+![1oPar1.2](/1oPar1.2.png)
 
 
 
