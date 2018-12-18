@@ -47,27 +47,27 @@
 Για να ακούγεται ο ήχος στο μενού ανέβηκαν δύο αρχεία ήχου [mouse-click .ogg](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/mouse-click%20.ogg) και [mouse-click.mp3](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/mouse-click.mp3) καθώς και το αρχείο [sound-menu-mouseover.js](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/sound-menu-mouseover.js).
 Έπειτα,εισήχθηκε στο [index.html](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/index.html) ένα script ,μία συνάρτηση onmouseover="playclip();" και ένα audio tag.
 
-![1oPar3](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.png)
+![1oPar3](1oPar3.png)
 
-![1oPar3.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.2.png)
+![1oPar3.2](1oPa3.2.png)
 
-![1oPar3.3](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.3.png)
+![1oPar3.3](1oPar3.3.png)
 
 
 ### 4ο ζητούμενο
 Για την αυτόματη αφήγηση του κειμένου χρησιμοποιήθηκε η βιβλιοθήκη [responsive voice](https://responsivevoice.org/).Προσθέθηκε έπειτα στο [index.html](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/index.html) ένα script και η συνάρτηση onmouseover="responsiveVoice.speak() στα απαραίτητα σημεία.
 
-![1oPar4](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar4.png)
+![1oPar4](1oPar4.png)
 
-![1οPar4.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar4.2.png)
+![1oPar4.2](1oPar4.2.png)
 
 
 #### 5ο ζητούμενο
 Για το responsive design προστέθηκε στο  [index.html](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/index.html) ένα script.Ωστόσο δε κατάφερα να κάνω τα γραφήματα responsive.
 
-![1οPar5](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar5.png)
+![1οPar5](1oPar5.png)
 
-![responsive](https://github.com/Thodoros/HCI-Final-Report/blob/master/responsive.gif)
+![responsive](responsive.png)
 
 
 ### Δεύτερο Παραδοτέο
@@ -75,11 +75,11 @@
 #### 1ο ζητούμενο
 Για να εμφανίζεται μόνο ένα από τα γραφήματα της επιλογής μας κάθε φορά,προσθέθηκε η συνάρτηση showhide και έπειτα στο μενού το onclick="showhide();".
 
-![2οPar1.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/2%CE%BFPar1.2.png)
+![2οPar1.2](2oPar1.2.png)
 
-![1οPar3.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.2.png)
+![1οPar3.2](1oPar3.2.png)
 
-![2opar1](https://github.com/Thodoros/HCI-Final-Report/blob/master/2opar1.gif)
+![2opar1](2opar1.png)
 
 #### 2ο ζητούμενο
 Δεν κατάφερα να το πραγματοποιήσω.
@@ -87,7 +87,7 @@
 #### 3ο ζητούμενο
 Δημιουργήθηκαν 3 νέα γραφήματα,[script_4](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_4.js),[script_5](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_5.js),[script_6](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_6.js) με στατιστικά δεδομένα της [ΕΛΣΤΑΣΤ](http://www.statistics.gr/) τα οποία τοποθετήθηκαν σε μία νέα σελίδα [examples.html](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/examples.html).
 
-![2οPar3](https://github.com/Thodoros/HCI-Final-Report/blob/master/2oPar3.gif)
+![2οPar3](2oPar3.png)
 
 
 ## Συμπεράσματα
