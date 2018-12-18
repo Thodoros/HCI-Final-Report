@@ -56,3 +56,15 @@
 
 ### 4ο ζητούμενο
 Για την αυτόματη αφήγηση του κειμένου χρησιμοποιήθηκε η βιβλιοθήκη [responsive voice](https://responsivevoice.org/).Προσθέθηκε έπειτα στο [index.html](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/index.html) ένα script και η συνάρτηση onmouseover="responsiveVoice.speak() στα απαραίτητα σημεία.
+
+![1oPar4](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar4.png)
+
+![1οPar4.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar4.2.png)
+
+
+#### 5ο ζητούμενο
+Για το responsive design προστέθηκε στο  [index.html](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/index.html) ένα script.Ωστόσο δε κατάφερα να κάνω τα γραφήματα responsive.
+
+![1οPar5](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar5.png)
+
+
