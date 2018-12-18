@@ -80,3 +80,19 @@
 ![1οPar3.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.2.png)
 
 ![2opar1](https://github.com/Thodoros/HCI-Final-Report/blob/master/2opar1.gif)
+
+#### 2ο ζητούμενο
+Δεν κατάφερα να το πραγματοποιήσω.
+
+#### 3ο ζητούμενο
+Δημιουργήθηκαν 3 νέα γραφήματα,[script_4](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_4.js),[script_5](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_5.js),[script_6](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/scripts/script_6.js) με στατιστικά δεδομένα της [ΕΛΣΤΑΣΤ](http://www.statistics.gr/) τα οποία τοποθετήθηκαν σε μία νέα σελίδα [examples.html](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/examples.html).
+
+![2οPar3](https://github.com/Thodoros/HCI-Final-Report/blob/master/2oPar3.gif)
+
+
+## Συμπεράσματα
+Η εργασία αυτή βοηθαεί το φοιτητή να αναπτύξει τις γνώσεις του πάνω στις τρεις πιο διαδεδομένες Web γλώσσες(html,CSS,Javascript) καθώς και να έρθει σε μία πρώτη επαφή με τα γραφήματα της [D3.js](https://d3js.org/) τα οποία είναι ευρέως διαδεδομένα και χρησιμοποιούνται αρκετά.Τέλος,ωθεί το φοιτητή στην αναζήτηση πληροφοριών και παραδειγμάτων ώστε να μπορέσει να προχωρήσει στην επίλυση των ζητουμένων των εργασίων και του καλλιεργεί το σωστό τρόπο αναζήτησης.
+
+## Βιβλιογραφία και συνδέσμους σε σχετικές εργασίες
+
+https://codepen.io/
