@@ -35,4 +35,9 @@
 
 
 ### 2ο ζητούμενο
-Για την αλλαγή των διεπαφών στα κούμπια,αλλάχτηκε ο κώδικας στο [style.css](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/stylesheets/style.css)
+Για την αλλαγή των διεπαφών στα κούμπια,αλλάχτηκε ο κώδικας στο [style.css](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/assets/stylesheets/style.css) και άλλαξε το χρώμα τον κουμπιών και το περίγραμμα.
+![style](style.png)
+
+![1oPar2](1oPar2.png)
+
+![1oPar2.1](1oPar2.1.png)
