@@ -49,7 +49,7 @@
 
 ![1oPar3](/1oPar3.png)
 
-![1oPar3.2](/1oPa3.2.png)
+![1oPar3.2](/1oPar3.2.png)
 
 ![1oPar3.3](/1oPar3.3.png)
 
