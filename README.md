@@ -67,4 +67,6 @@
 
 ![1οPar5](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar5.png)
 
+![responsive](https://github.com/Thodoros/HCI-Final-Report/blob/master/responsive.gif)
+
 
