@@ -30,6 +30,7 @@
 
 #### 3ο γράφημα
 ![colour3](colour3.png)
+
 ![1oPar1.3](/1oPar1.3.png)
 
 
