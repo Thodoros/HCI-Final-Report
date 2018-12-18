@@ -102,6 +102,10 @@
 * [3ο διάγραμμα](https://codepen.io/michaellee/pen/eNodMx)
 * https://d3js.org/
 * http://www.statistics.gr/
+* Πηγές Στατιστικών Δεδομένων
+* [Αριθμός ζώων και εκμεταλλεύσεις, 2016 - 2017](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=324381&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el)
+*[Παραγωγή Ανακυκλώσιμων Αποβλήτων (σε ποσοστό) από το σύνολο των παραγώμενων στερεών αποβλήτων (2004-2014)](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=312144&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el)
+*[Μεταβολές του γενικού δείκτη απασχολούμενων ατόμων στο λιανικό εμπόριο (Α-Δ τρίμηνο του 2016 και 2017)](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=333363&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el)
 * https://responsivevoice.org/
 * https://www.w3schools.com/
 * https://stackoverflow.com/
