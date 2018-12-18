@@ -70,3 +70,13 @@
 ![responsive](https://github.com/Thodoros/HCI-Final-Report/blob/master/responsive.gif)
 
 
+### Δεύτερο Παραδοτέο
+
+#### 1ο ζητούμενο
+Για να εμφανίζεται μόνο ένα από τα γραφήματα της επιλογής μας κάθε φορά,προσθέθηκε η συνάρτηση showhide και έπειτα στο μενού το onclick="showhide();".
+
+![2οPar1.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/2%CE%BFPar1.2.png)
+
+![1οPar3.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.2.png)
+
+![2opar1](https://github.com/Thodoros/HCI-Final-Report/blob/master/2opar1.gif)
