@@ -41,3 +41,14 @@
 ![1oPar2](1oPar2.png)
 
 ![1oPar2.1](1oPar2.1.png)
+
+
+### 3ο ζητούμενο
+Για να ακούγεται ο ήχος στο μενού ανέβασα δύο αρχεία ήχου [mouse-click .ogg](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/mouse-click%20.ogg) και [mouse-click.mp3](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/mouse-click.mp3) καθώς και το αρχείο [sound-menu-mouseover.js](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/sound-menu-mouseover.js).
+Έπειτα,εισήχθηκε στο [index.html](https://github.com/Thodoros/D3js-US-educational-attainment/blob/master/index.html) ένα script tag,μία συνάρτηση onmouseover="playclip();" και ένα audio tag.
+
+![1oPar3](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.png)
+
+![1oPar3.2](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.2.png)
+
+![1oPar3.3](https://github.com/Thodoros/HCI-Final-Report/blob/master/1oPar3.3.png)
